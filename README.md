@@ -13,14 +13,9 @@ We'll visualize the model's predictive ability by plotting 7 Partial Dependence 
 Our predictors:    malware, hacking, social, misuse, physical, error, environmental
 Our predicted:     Time to Discovery (timeline.discovery.value)
 
-#### More
-# [1] http://veriscommunity.net/discovery.html#section-incident-timeline
-# [2] https://stephenmilborrow.r-universe.dev/plotmo
-
-Make this:
+[VCDB-Partial-Dependence-Plots.R](https://github.com/cneskey/Doing-Security-with-R/blob/b273e00456a1b2da2fd4227af583d79cfa63a5c6/VCDB-Partial-Dependence-Plots.R)
 ![image](https://github.com/cneskey/Doing-Security-with-R/assets/4606261/aaf731b0-fcc6-4c40-a1b6-b2ae2e254dd2)
 
-
-With this:
-
-Or this:
+#### More
+- http://veriscommunity.net/discovery.html#section-incident-timeline
+- https://stephenmilborrow.r-universe.dev/plotmo
